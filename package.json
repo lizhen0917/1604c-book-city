@@ -1,0 +1,19 @@
+{
+  "name": "1604c-book-city",
+  "version": "1.0.0",
+  "description": "1604c-book-city",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizhen0917/1604c-book-city.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizhen0917/1604c-book-city/issues"
+  },
+  "homepage": "https://github.com/lizhen0917/1604c-book-city#readme"
+}
